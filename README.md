@@ -2,7 +2,7 @@
 
 ### 💻 Aspiring Software Developer
 
-I'm a passionate software developer, completing my National Diploma in Computer Science at Tshwane University of Technology. I love building practical solutions to real-world problems and learning new technogies.
+I'm a passionate software developer, completing my National Diploma in Computer Science at Tshwane University of Technology. I love building practical solutions to real-world problems and learning new technologies.
 
 ---
 
