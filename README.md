@@ -10,7 +10,7 @@ I'm a passionate software developer, completing my National Diploma in Computer 
 
 - 🔭 Currently working on: Full-stack web applications using Java and React
 - 🌱 Learning: Advanced software engineering principles
-- 👯 Looking for: Work Integrated Learning (WIL) opportunities to complete my diploma
+- 👯 Looking for: Software Engineering Roles
 - 💡 Interests: Building student-focused applications, fintech solutions,enterprise applications ,educational platforms 
 - 🎮 Fun fact: I enjoy gaming, music, business prograns and exploring emerging technologies
 
