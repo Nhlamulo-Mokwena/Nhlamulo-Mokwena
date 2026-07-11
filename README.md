@@ -1,69 +1,69 @@
-# Hi, I'm Phillemon Nhlamulo Mokwena
+# Hi, I'm Phillemon Nhlamulo Mokwena 👋
 
-### 💻 Aspiring Software Developer
+### 💻 Junior Software Developer
 
-I'm a passionate software developer, completing my National Diploma in Computer Science at Tshwane University of Technology. I love building practical solutions to real-world problems and learning new technologies.
+I'm a Computer Science graduate (National Diploma, Tshwane University of Technology)
+who recently completed a 6-month internship as a Junior Software Developer at
+LoadXChange (LX Connect), where I shipped full-stack features to a live production
+system. I enjoy building practical, real-world software and I'm currently deepening
+my skills in backend architecture and AI-assisted development.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: Full-stack web applications using Java and React
-- 🌱 Learning: Advanced software engineering principles
-- 👯 Looking for: Software Engineering Roles
-- 💡 Interests: Building student-focused applications, fintech solutions,enterprise applications ,educational platforms 
-- 🎮 Fun fact: I enjoy gaming, music, business prograns and exploring emerging technologies
+- 💼 Recently completed: 6-month internship as a Junior Software Developer at LX Connect
+- 🔭 Currently building: SchoolApply — a full-stack school admissions platform
+  (Spring Boot, React, JWT/RBAC)
+- 🌱 Learning: AI-assisted development tooling, RAG pipelines, and cloud/CI-CD basics
+- 👯 Looking for: Graduate Software Developer roles
+- 💡 Interests: Fintech, edtech, and enterprise applications
+- ⚡ Fun fact: I also run a football analytics content project on the side
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+**Languages:** Java · Python · JavaScript · TypeScript · SQL · HTML5 · CSS3 · Kotlin
 
-**Frameworks & Tools:**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+**Frameworks & Tools:** React · NestJS · Spring Boot · Django · TailwindCSS · Git · Docker · AWS
+
+**Testing:** Java · Selenium (Automated UI & Regression Testing)
 
 ---
 
 ## 📌 Featured Projects
 
+### 🏫 [SchoolApply](https://github.com/Nhlamulo-Mokwena/SchoolApply)
+A full-stack school admissions platform for South African primary and high schools,
+with JWT authentication, role-based access (admin/teacher/parent), multi-step
+application forms, and document uploads.
+- **Tech:** Spring Boot, React, Vite, TailwindCSS, PostgreSQL
+
 ### 🎓 [MEB-HUB-PROJECT](https://github.com/Nhlamulo-Mokwena/MEB-HUB-PROJECT)
-A comprehensive web application designed to help first-year students navigate campus life with features like bus schedules, campus event calendars, and interactive campus maps.
-- **Tech:** Python, Django, HTML, CSS, JavaScript
-- **⭐ 2 Stars | 🍴 3 Forks**
+A campus management platform helping first-year students navigate campus life —
+bus schedules, event calendars, and interactive campus maps. Led a team of 10 to build it.
+- **Tech:** Python, Django, PostgreSQL, JavaScript, Google Maps API
+- ⭐ 2 Stars | 🍴 3 Forks
+
+### 📋 [Software-Dev-Course-Web-Application](https://github.com/Nhlamulo-Mokwena/Software-Dev-Course-Web-Application)
+A single-page application with full CRUD functionality and RESTful API integration.
+- **Tech:** React, JavaScript, REST API
 
 ### 🏦 [Bank System Application](https://github.com/Nhlamulo-Mokwena/Bank-System-Application)
-Desktop banking application built with Java Swing GUI, featuring account creation, login authentication, and persistent file-based data storage.
+A desktop banking application with account management, deposits, withdrawals, and
+transfers, using persistent file-based storage.
 - **Tech:** Java, Swing GUI, File I/O
-
-### 📚 [Library Management System](https://github.com/Nhlamulo-Mokwena/Library-Management-System)
-System enabling students to request books and administrators to process requests efficiently.
-- **Tech:** Java
-
-### 🍔 [Fast Food Shop](https://github.com/Nhlamulo-Mokwena/Fast-Food-Shop)
-My first web development project - a responsive fast-food ordering website demonstrating HTML, CSS, and JavaScript fundamentals.
-- **Tech:** HTML, CSS, JavaScript
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhlamulo-mokwena-947a0b321/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mokwenaphillimon9@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nhlamulo-mokwena-947a0b321/) ·
+[Email](mailto:mokwenaphillimon9@gmail.com)
 
 ---
 
-💼 **Open to opportunities:** I'm actively seeking WIL placement or graduate developer positions. Let's connect!
+💼 **Open to opportunities:** Actively seeking Graduate Software Developer roles in South Africa.
 
-⚡ **Languages:** Fluent in Xitsonga, English, and Setswana
+⚡ **Languages:** Xitsonga (Native) · English (Professional) · Setswana (Conversational)
